@@ -15,6 +15,16 @@ Task management tool created by using react. React functional components are use
 - Drag and drop task from one stage to another stage
 - Modals for confirmation message
 
+## Hosted link
+
+[Click here](https://nimble-lily-50e436.netlify.app/).
+
+## Contact me
+
+- sanathnadh54@gmail.com
+- [Linkedin](https://www.linkedin.com/in/sanath-nath/)
+- whatsapp 8848683802
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
