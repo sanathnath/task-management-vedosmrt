@@ -1,0 +1,6 @@
+.home_main{
+    display: flex;
+    width: 100%;
+    overflow-x: scroll;
+    padding-top: 4rem;
+}

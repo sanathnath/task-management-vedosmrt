@@ -1,0 +1,11 @@
+.collapse_div{
+    height: 600px;
+    border: 1px solid black;
+    transition: all 0.3s;
+}
+.task_card{
+    height: 150px;
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+}

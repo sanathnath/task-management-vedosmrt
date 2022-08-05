@@ -1,0 +1,41 @@
+.add_item_div{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    padding-top: 1rem;
+    background-color: rgba(255, 255, 255, 0.281);
+}
+.add_item_card{
+    border: 1px solid rgb(114, 112, 112);
+    width: 45%;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    padding: 2rem 5rem;
+    box-shadow: 10px 9px 10px rgba(194, 188, 188, 0.836);
+    background-color: white;
+    z-index: 100;
+}
+.input_div{ 
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.error{
+    color:red;
+}
+.user_tag{
+    text-align: center;
+    width:50px;
+    margin: 2px;
+    background-color: rgb(168, 166, 166);
+}
+.create_button{
+    background-color: rgba(49, 190, 44, 0.904);
+    color: white;
+    padding: 3px 13px;
+    margin-top: 1rem;
+    border: none;
+}
